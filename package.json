@@ -1,0 +1,16 @@
+{
+  "name": "sauth-youtube",
+  "version": "0.0.1",
+  "description": "Youtube SAuth Strategy",
+  "main": "index.js",
+  "author": "Joseph Werle <joseph.werle@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "youtube",
+    "sauth"
+  ],
+  "dependencies": {
+    "googleapis": "^1.0.12",
+    "sauth": "0.0.4"
+  }
+}
